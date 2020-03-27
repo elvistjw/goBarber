@@ -1,4 +1,4 @@
-const app = require('./app');
+import app from './app';
 
-//port
+// port
 app.listen(3333);
